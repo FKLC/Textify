@@ -1,0 +1,2 @@
+# Textify
+Textify is a React.js project that allows users to login with Spotify, and create a playlist from the text they provide. The user can then view the songs in the generated playlist. Try it [here](https://fklc.github.io/Textify/).
